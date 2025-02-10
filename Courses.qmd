@@ -1,7 +1,0 @@
----
-title: "Coursework"
-format: html
-theme: darkly 
----
-
-**Selected Coursework Review**
