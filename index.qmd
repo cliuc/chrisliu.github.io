@@ -1,22 +1,20 @@
 ---
-title: "Home"
-format: html
-editor: visual
-theme: darkly 
+title: "Chris Liu"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: cliu119@calpoly.edu
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/chrisyliu1/
+    - text: GitHub
+      href: https://github.com/cliuc
 ---
 
-## Hello!
+I am Chris Liu, a second-year undergraduate student at [California Polytechnic State University](https://www.calpoly.edu/) passionate about anything statistics and data science!
 
-Welcome to my website!
-
-## About Me
-
-I am Chris Liu, a second-year undergraduate student at [Cal Poly](https://www.calpoly.edu/) passionate about anything statistics and data science!
-
-
-
-## Contact
-
-You can reach me at:\
-🔗 [LinkedIn](https://www.linkedin.com/in/chrisyliu1/)\
-📂 [GitHub](https://github.com/cliuc)
+Feel free to contact me via email! :)

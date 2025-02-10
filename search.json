@@ -1,45 +1,45 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "TBA"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Chris Liu",
     "section": "",
-    "text": "Welcome to my website!"
+    "text": "I am Chris Liu, a second-year undergraduate student at California Polytechnic State University passionate about anything statistics and data science!\nFeel free to contact me via email! :)"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
-    "title": "Home",
+    "title": "Chris Liu",
     "section": "",
     "text": "Welcome to my website!"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Home",
+    "title": "Chris Liu",
     "section": "About Me",
     "text": "About Me\nI am Chris Liu, a second-year undergraduate student at Cal Poly passionate about anything statistics and data science!"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Home",
+    "title": "Chris Liu",
     "section": "Contact",
     "text": "Contact\nYou can reach me at:\n🔗 LinkedIn\n📂 GitHub"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Chris Liu",
+    "section": "",
+    "text": "I am Chris Liu, a second-year undergraduate student at Cal Poly passionate about anything statistics and data science!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "WHAT IS UP MY GANG!!!\nI’LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!\nI have two doggies, Lucky & Potato. They are the goodest boys. :)"
+    "text": "I have two doggies, Lucky & Potato. They are the goodest boys. :)"
   },
   {
     "objectID": "blog.html",
@@ -47,5 +47,19 @@
     "title": "Blog",
     "section": "",
     "text": "Statistics. Life! Emotion. Purpose?"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Course Review",
+    "section": "",
+    "text": "Will add something :)"
   }
 ]

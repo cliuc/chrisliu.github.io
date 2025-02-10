@@ -4,8 +4,4 @@ format: html
 theme: darkly 
 ---
 
-WHAT IS UP MY GANG!!!
-
-I'LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!
-
 I have two doggies, Lucky & Potato. They are the goodest boys. :)
