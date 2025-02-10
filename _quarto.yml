@@ -11,7 +11,7 @@ website:
         text: About Me
       - href: blog.qmd
         text: Blog
-      - href: courses.qmd
+      - href: coursework.qmd
         text: Coursework
       - href: resume.qmd
         text: Resume
