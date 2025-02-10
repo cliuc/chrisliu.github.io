@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Coursework"
 format: html
 theme: darkly 
 ---
