@@ -8,10 +8,9 @@ format: html
 Welcome to my website!  
 
 ## About Me  
-I am Chris Y. Liu, an undergraduate passionate about data science!  
+I am Chris Liu, a second-year undergraduate student passionate about data science!  
 
 ## Contact  
 You can reach me at:  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📂 [GitHub](https://github.com/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chrisyliu1/)  
+📂 [GitHub](https://github.com/cliuc)  
