@@ -2,16 +2,18 @@
 title: "Home"
 format: html
 editor: visual
-theme: cosmo
+theme: darkly 
 ---
 
-# Hello!
+# #Hello!
 
 Welcome to my website!
 
 ## About Me
 
-I am Chris Liu, a second-year undergraduate student passionate about data science!
+I am Chris Liu, a second-year undergraduate student at [Cal Poly](https://www.calpoly.edu/) passionate about anything statistics and data science!
+
+
 
 ## Contact
 

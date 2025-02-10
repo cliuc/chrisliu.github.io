@@ -1,6 +1,7 @@
 ---
 title: "Courses"
 format: html
+theme: darkly 
 ---
 
 **Selected Coursework Review**

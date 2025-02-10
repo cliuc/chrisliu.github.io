@@ -1,0 +1,7 @@
+---
+title: "Blog"
+format: html
+theme: darkly
+---
+
+Statistics. Life! Emotion. Purpose?

@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my website!\n\n\nI am Chris Liu, a second-year undergraduate student passionate about data science!\n\n\n\nYou can reach me at:\n🔗 LinkedIn\n📂 GitHub"
+    "text": "Welcome to my website!\n\n\nI am Chris Liu, a second-year undergraduate student at Cal Poly passionate about anything statistics and data science!\n\n\n\nYou can reach me at:\n🔗 LinkedIn\n📂 GitHub"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Home",
     "section": "",
-    "text": "I am Chris Liu, a second-year undergraduate student passionate about data science!"
+    "text": "I am Chris Liu, a second-year undergraduate student at Cal Poly passionate about anything statistics and data science!"
   },
   {
     "objectID": "index.html#contact",
@@ -21,13 +21,6 @@
     "text": "You can reach me at:\n🔗 LinkedIn\n📂 GitHub"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "WHAT IS UP MY GANG!!!\nI’LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!"
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -35,11 +28,11 @@
     "text": "TBA"
   },
   {
-    "objectID": "Courses.html",
-    "href": "Courses.html",
-    "title": "Courses",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Selected Coursework Review"
+    "text": "WHAT IS UP MY GANG!!!\nI’LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!\nI have two doggies, Lucky & Potato. They are the goodest boys. :)"
   },
   {
     "objectID": "courses.html",
@@ -47,5 +40,12 @@
     "title": "Courses",
     "section": "",
     "text": "Selected Coursework Review"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Statistics. Life! Emotion. Purpose?"
   }
 ]

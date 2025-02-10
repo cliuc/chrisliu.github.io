@@ -9,10 +9,12 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
+      - href: blog.qmd
+        text: Blog
       - href: courses.qmd
         text: Coursework
       - href: resume.qmd
         text: Resume
 
-theme: cosmo  
+theme: darkly 
 format: html
