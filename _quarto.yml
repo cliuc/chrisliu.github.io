@@ -9,6 +9,5 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-format:
-  html:
-    theme: cosmo
+        
+format: html
