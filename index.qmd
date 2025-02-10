@@ -5,13 +5,16 @@ editor: visual
 theme: cosmo
 ---
 
-# Hello! 
-Welcome to my website!  
+# Hello!
 
-## About Me  
-I am Chris Liu, a second-year undergraduate student passionate about data science!  
+Welcome to my website!
 
-## Contact  
-You can reach me at:  
-🔗 [LinkedIn](https://www.linkedin.com/in/chrisyliu1/)  
-📂 [GitHub](https://github.com/cliuc)  
+## About Me
+
+I am Chris Liu, a second-year undergraduate student passionate about data science!
+
+## Contact
+
+You can reach me at:\
+🔗 [LinkedIn](https://www.linkedin.com/in/chrisyliu1/)\
+📂 [GitHub](https://github.com/cliuc)
