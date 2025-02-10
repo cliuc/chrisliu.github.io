@@ -1,7 +1,8 @@
 ---
-title: "About Me"
+title: "About"
 format: html
 theme: darkly 
 ---
 
-I have two doggies, Lucky & Potato. They are the goodest boys. :)
+**10 Fenruary 2025**
+This website is hosted via GitHub pages.

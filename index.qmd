@@ -1,5 +1,5 @@
 ---
-title: "Chris Liu"
+title: "Chris Y. Liu"
 image: media/headshot.jpeg
 toc: false
 about: 
@@ -15,6 +15,6 @@ about:
       href: https://github.com/cliuc
 ---
 
-I am Chris Liu, a second-year undergraduate student at [California Polytechnic State University](https://www.calpoly.edu/) passionate about anything statistics and data science!
+I am Chris Liu (he/him), a second-year undergraduate student at [California Polytechnic State University](https://www.calpoly.edu/) passionate about anything statistics and data science!
 
-Feel free to contact me via email! :)
+Feel free to contact me via email!
