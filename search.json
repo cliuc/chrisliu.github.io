@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chris Liu",
+    "title": "Chris Y. Liu",
     "section": "",
-    "text": "I am Chris Liu, a second-year undergraduate student at California Polytechnic State University passionate about anything statistics and data science!\nFeel free to contact me via email! :)"
+    "text": "I am Chris Liu (he/him), a second-year undergraduate student at California Polytechnic State University passionate about anything statistics and data science!\nFeel free to contact me via email!"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Resume",
+    "title": "Résumé",
     "section": "",
     "text": "TBA"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "I have two doggies, Lucky & Potato. They are the goodest boys. :)"
+    "text": "10 Fenruary 2025 This website is hosted via GitHub pages."
   },
   {
     "objectID": "blog.html",
@@ -26,12 +26,5 @@
     "title": "Blog",
     "section": "",
     "text": "Statistics. Life! Emotion. Purpose?"
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Course Review",
-    "section": "",
-    "text": "Will add something :)"
   }
 ]
