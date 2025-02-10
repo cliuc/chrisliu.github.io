@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "WHAT IS UP MY GANG!!!\nI’LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!\nI have two doggies, Lucky & Potato. They are the goodest boys. :)"
+    "text": "TBA"
   },
   {
     "objectID": "index.html",
@@ -33,5 +33,19 @@
     "title": "Home",
     "section": "Contact",
     "text": "Contact\nYou can reach me at:\n🔗 LinkedIn\n📂 GitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "WHAT IS UP MY GANG!!!\nI’LL BE WRITING MY AUTIOBIOGRAPHY WHEN I AM OLD!!!\nI have two doggies, Lucky & Potato. They are the goodest boys. :)"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Statistics. Life! Emotion. Purpose?"
   }
 ]
