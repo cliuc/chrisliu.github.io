@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links:
     - text: Email
-      href: cliu119@calpoly.edu
+      href: mailto:cliu119@calpoly.edu
     - text: LinkedIn
       href: https://www.linkedin.com/in/chrisyliu1/
     - text: GitHub
