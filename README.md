@@ -1,5 +1,5 @@
 Personal website under construction.
 
-https://cliuc.github.io/chrisliu/
+https://chrisyliu.com
 
 Let me know if you experience any inconveniences/irregularities using my website.
