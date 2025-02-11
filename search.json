@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chris Yuhan Liu",
+    "objectID": "debut-blog.html",
+    "href": "debut-blog.html",
+    "title": "Debut Blog",
     "section": "",
-    "text": "I am Chris Liu (he/him), a second-year undergraduate student at California Polytechnic State University passionate about anything statistics and data science!\nFeel free to contact me via email!"
+    "text": "This is the first time in a while where I have written purely for the joy of it.\nI find myself curious about a number of subjects. Conveying my interest with words is not the only form of expression. I hope to write, not to be judged by a reader, but for my own fulfillment.\nAs I write my first blog of 2025, I am overwhelmed with endless responsibilites. So forgive me if my blogs are few.\nChris"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Statistical Computing\nCasual Inference\nEducation & Pedagogy"
+    "text": "Statistical computing\nCasual inference\nEducation & pedagogy\nand much more!"
   },
   {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "About",
     "section": "",
-    "text": "Statistical Computing\nCasual Inference\nEducation & Pedagogy"
+    "text": "Statistical computing\nCasual inference\nEducation & pedagogy\nand much more!"
   },
   {
     "objectID": "about.html#hobbies",
@@ -28,17 +28,17 @@
     "text": "Hobbies\n\nReading classic novels\nCooking new foods\nOutdoors"
   },
   {
-    "objectID": "debut-blog.html",
-    "href": "debut-blog.html",
-    "title": "Debut Blog",
-    "section": "",
-    "text": "This is the first time in a while where I have written purely for the joy of it.\nI find myself curious about a number of subjects. Conveying my interest with words is not the only form of expression. I hope to write, not to be judged by a reader, but for my own fulfillment.\nAs I write my first blog of 2025, I am overwhelmed with endless responsibilites. So forgive me if my blogs are few.\nChris"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
     "text": "Statistics. Life! Emotion. Purpose?\n10 February 2025\n\nDebut Blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chris Yuhan Liu",
+    "section": "",
+    "text": "I am Chris Liu (he/him), a second-year undergraduate student at California Polytechnic State University passionate about anything statistics and data science!\nFeel free to contact me via email!"
   }
 ]

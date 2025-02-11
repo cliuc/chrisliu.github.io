@@ -6,9 +6,10 @@ theme: darkly
 
 
 ## Interests
-- Statistical Computing
-- Casual Inference
-- Education & Pedagogy
+- Statistical computing
+- Casual inference
+- Education & pedagogy
+- and much more!
 
 ## Hobbies
 - Reading classic novels
