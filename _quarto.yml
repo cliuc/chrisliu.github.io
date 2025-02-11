@@ -13,8 +13,6 @@ website:
         text: Blog
       - url: https://www.chrisyliu.com/media/LiuChris_Resume.pdf
         text: Résumé
-      - href: debut-blog.qmd
-        text: Debut Blog
         
 theme: darkly 
 format: html
