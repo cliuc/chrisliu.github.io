@@ -5,3 +5,8 @@ theme: darkly
 ---
 
 Statistics. Life! Emotion. Purpose?
+
+
+__**2025-02-10**__
+
+- [Debut Blog](debut-blog.html)

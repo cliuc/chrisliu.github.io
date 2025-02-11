@@ -4,5 +4,12 @@ format: html
 theme: darkly 
 ---
 
-**10 February 2025** -- 
-This website is hosted via GitHub pages.
+## Interests
+- Statistical Computing
+- Casual Inference
+- Education & Pedagogy
+
+## Hobbies
+- Reading classic novels
+- Cooking new foods
+- Outdoors
