@@ -1,5 +1,5 @@
 ---
-title: "Chris Y. Liu"
+title: "Chris Yuhan Liu"
 image: media/headshot.jpeg
 toc: false
 about: 
