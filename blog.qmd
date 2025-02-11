@@ -7,6 +7,6 @@ theme: darkly
 Statistics. Life! Emotion. Purpose?
 
 
-__**2025-02-10**__
+[**10 February 2025**]{style="text-decoration: underline;"}
 
 - [Debut Blog](debut-blog.html)

@@ -1,6 +1,6 @@
 ---
 title: "Chris Yuhan Liu"
-image: media/headshot.jpeg
+image: docs/headshot.jpeg
 toc: false
 about: 
   template: jolla
