@@ -9,10 +9,10 @@ about:
   links:
     - text: Email
       href: mailto:cliu119@calpoly.edu
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/chrisyliu1/
     - text: GitHub
       href: https://github.com/cliuc
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/chrisyliu1/
 ---
 
 I am Chris Liu (he/him), a second-year undergraduate student at [California Polytechnic State University](https://www.calpoly.edu/) passionate about anything statistics and data science!
