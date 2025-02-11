@@ -11,7 +11,7 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
-      - url: https://cliuc.github.io/chrisliu/media/LiuChris_Resume.pdf
+      - url: <a target="_blank" rel="noopener noreferrer" href="https://cliuc.github.io/chrisliu/media/LiuChris_Resume.pdf">Link</a>
         text: Résumé
         
 theme: darkly 
