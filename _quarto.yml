@@ -5,8 +5,6 @@ website:
   title: "Chris Yuhan Liu"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
       - href: blog.qmd
         text: Blog
       - url: https://www.chrisyliu.com/docs/LiuChris_Resume.pdf
