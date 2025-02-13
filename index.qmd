@@ -3,18 +3,24 @@ title: "Chris Yuhan Liu"
 image: docs/headshot.jpeg
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 17em
   links:
-    - text: Email
+    - icon: envelope
       href: mailto:cliu119@calpoly.edu
-    - text: GitHub
+    - icon: github
       href: https://github.com/cliuc
-    - text: LinkedIn
+    - icon: linkedin
       href: https://www.linkedin.com/in/chrisyliu1/
 ---
 
-I am Chris Liu (he/him), a second-year undergraduate student at [California Polytechnic State University](https://www.calpoly.edu/) passionate about anything statistics and data science!
+Welcome to my homepage!
 
-Feel free to contact me via email!
+I am Chris Liu (he/him/his), a second-year statistics & data science student at [California Polytechnic State University](https://www.calpoly.edu/) in beautiful San Luis Obispo. 
+
+I am currently a research assistant with [Dr. Saba Gerami](https://math.calpoly.edu/saba-gerami), where I create and expand upon theoretical frameworks for analysing student understanding in calculus.
+
+Outside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading [Nikolai Gogol's](https://en.wikipedia.org/wiki/Nikolai_Gogol) *[Dead Souls](https://en.wikipedia.org/wiki/Dead_Souls)*. Let me know if you have any book recommendations!
+
+Feel free to contact me about anything via email!
