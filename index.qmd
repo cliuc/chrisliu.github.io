@@ -8,19 +8,23 @@ about:
   image-width: 17em
   links:
     - icon: envelope
+      text: Email
       href: mailto:cliu119@calpoly.edu
     - icon: github
+      text: GitHub
       href: https://github.com/cliuc
     - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/chrisyliu1/
 ---
 
 Welcome to my homepage!
 
-I am Chris Liu (he/him/his), a second-year statistics & data science student at [California Polytechnic State University](https://www.calpoly.edu/) in beautiful San Luis Obispo. 
+I am Chris Liu (he/him/his), a second-year statistics & data science student at [California Polytechnic State University](https://www.calpoly.edu/){target="_blank"} in beautiful San Luis Obispo. 
 
-I am currently a research assistant with [Dr. Saba Gerami](https://math.calpoly.edu/saba-gerami), where I create and expand upon theoretical frameworks for analysing student understanding in calculus.
+I am currently a research assistant with [Dr. Saba Gerami](https://math.calpoly.edu/saba-gerami){target="_blank"}, where I create and expand upon theoretical frameworks for analysing student understanding in calculus.
 
-Outside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading [Nikolai Gogol's](https://en.wikipedia.org/wiki/Nikolai_Gogol) *[Dead Souls](https://en.wikipedia.org/wiki/Dead_Souls)*. Let me know if you have any book recommendations!
+Outside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading [Nikolai Gogol's](https://en.wikipedia.org/wiki/Nikolai_Gogol){target="_blank"} *[Dead Souls](https://en.wikipedia.org/wiki/Dead_Souls){target="_blank"}*. Let me know if you have any book recommendations!
 
 Feel free to contact me about anything via email!
+
