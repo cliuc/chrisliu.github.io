@@ -11,12 +11,15 @@ about:
     - icon: envelope
       text: Email
       href: mailto:cliu119@calpoly.edu
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/cliuc
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/chrisyliu1/
+      target: _blank
 ---
 
 Welcome to my homepage!
