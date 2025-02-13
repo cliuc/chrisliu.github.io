@@ -1,5 +1,6 @@
 ---
 title: "Chris Yuhan Liu"
+subtitle: "he/him/his"
 image: docs/headshot.jpeg
 toc: false
 about: 
@@ -20,9 +21,9 @@ about:
 
 Welcome to my homepage!
 
-I am Chris Liu (he/him/his), a second-year statistics & data science student at [California Polytechnic State University](https://www.calpoly.edu/){target="_blank"} in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California){target="_blank"}. 
+I am Chris, a second-year statistics & data science student at [California Polytechnic State University](https://www.calpoly.edu/){target="_blank"} in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California){target="_blank"}. 
 
-I am interested in statistical computing, data visualisation, casual inference, pedagogy, and much more. Currently, I am a research assistant with [Dr. Saba Gerami](https://math.calpoly.edu/saba-gerami){target="_blank"}, where I create and expand upon theoretical frameworks for analysing student understanding in calculus.
+I am interested in statistical computing, data visualisation, casual inference, pedagogy, and much more. Currently, I am a research assistant with [Dr. Saba Gerami](https://math.calpoly.edu/saba-gerami){target="_blank"}, where I develop and enhance theoretical frameworks for student understanding in calculus. Additionally, I investigate instructor task design and explore how students engage w/ various representations in calculus.
 
 Outside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading [Nikolai Gogol's](https://en.wikipedia.org/wiki/Nikolai_Gogol){target="_blank"} *[Dead Souls](https://en.wikipedia.org/wiki/Dead_Souls){target="_blank"}*. Let me know if you have any book recommendations!
 
