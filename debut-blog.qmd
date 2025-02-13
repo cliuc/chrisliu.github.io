@@ -1,8 +1,7 @@
 ---
 title: "Debut Blog"
-format: html
 toc: false
-date: "10 02 2025"
+date: "10 February 2025"
 ---
 
 This is the first time in a while where I have written purely for the joy of it.

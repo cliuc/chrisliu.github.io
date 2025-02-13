@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chris Yuhan Liu",
+    "objectID": "debut-blog.html",
+    "href": "debut-blog.html",
+    "title": "Debut Blog",
     "section": "",
-    "text": "Welcome to my homepage!\nI am Chris Liu (he/him/his), a second-year statistics & data science student at California Polytechnic State University in beautiful San Luis Obispo.\nI am interested in statistical computing, data visualisation, casual inference, pedagogy, and much more. Currently, I am a research assistant with Dr. Saba Gerami, where I create and expand upon theoretical frameworks for analysing student understanding in calculus.\nOutside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading Nikolai Gogol’s Dead Souls. Let me know if you have any book recommendations!\nFeel free to contact me about anything via email!"
+    "text": "This is the first time in a while where I have written purely for the joy of it.\nI find myself curious about a number of subjects. Conveying my interest with words is not the only form of expression. I hope to write, not to be judged by a reader, but for my own fulfillment.\nAs I write my first blog of 2025, I am overwhelmed with endless responsibilites. So forgive me if my blogs are few.\nChris"
   },
   {
     "objectID": "blog.html",
@@ -12,5 +12,12 @@
     "title": "Blog",
     "section": "",
     "text": "Statistics. Life! Emotion. Purpose?\n10 February 2025\n\nDebut Blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chris Yuhan Liu",
+    "section": "",
+    "text": "Welcome to my homepage!\nI am Chris Liu (he/him/his), a second-year statistics & data science student at California Polytechnic State University in beautiful San Luis Obispo.\nI am interested in statistical computing, data visualisation, casual inference, pedagogy, and much more. Currently, I am a research assistant with Dr. Saba Gerami, where I create and expand upon theoretical frameworks for analysing student understanding in calculus.\nOutside of academia, I enjoy reading classic novels, cooking new foods, and being outdoors. I am currently reading Nikolai Gogol’s Dead Souls. Let me know if you have any book recommendations!\nFeel free to contact me about anything via email!"
   }
 ]
